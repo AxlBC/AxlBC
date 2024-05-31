@@ -5,7 +5,7 @@
 Soy un estudiante de programación que tiene como objetivo especializarse en el área de Back-End. 
 A lo largo de estos últimos años he adquirido un poco de conocimientos en lenguajes de programación como C#, Java, Python y JavaScript, además de aprender las bases de HTML5 y CSS3.
 
-Me considero una persona adaptable a diferentes personas y que se enfoca en alcanzar los objetivos que se propone, además de ser alguien organizado y que sabe trabajar en equipo.
+Me considero una persona adaptable a multiples tipos de situaciones y que se enfoca en alcanzar los objetivos que se propone, además de ser alguien que gusta de tener las cosas organizadas y que no tiene demasiada dificultad en coplarse a los trabajos en equipos.
 
 <!--
 **AxlBC/AxlBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
